@@ -1,0 +1,19 @@
+ Volume in drive D is Data
+ Volume Serial Number is 54BA-7DC6
+
+ Directory of D:\xampp\htdocs\scholar\wp-content\plugins\scholar\views
+
+04.02.2017 £.  09:51    <DIR>          .
+04.02.2017 £.  09:51    <DIR>          ..
+24.01.2017 £.  08:34                76 scholar_main.php
+24.01.2017 £.  08:22                92 scholar_main_template.php
+01.02.2017 £.  07:57             1ÿ071 scholar_questions.php
+01.02.2017 £.  07:34             2ÿ565 scholar_questions_add.php
+01.02.2017 £.  08:32             1ÿ678 scholar_tests.php
+01.02.2017 £.  08:03             1ÿ122 scholar_tests_add.php
+30.01.2017 £.  08:48               811 scholar_tests_correct.php
+01.02.2017 £.  08:36               893 scholar_tests_solved.php
+30.01.2017 £.  08:45               747 scholar_tests_view.php
+04.02.2017 £.  09:51                 0 t.txt
+              10 File(s)          9ÿ055 bytes
+               2 Dir(s)  20ÿ046ÿ561ÿ280 bytes free

@@ -1,0 +1,52 @@
+ Volume in drive D is Data
+ Volume Serial Number is 54BA-7DC6
+
+ Directory of D:\xampp\htdocs\scholar\wp-content\plugins\scholar
+
+04.02.2017 £.  09:11    <DIR>          .
+04.02.2017 £.  09:11    <DIR>          ..
+01.02.2017 £.  07:33             1ÿ019 class.html.php
+03.02.2017 £.  07:27            12ÿ638 class.processor.php
+01.02.2017 £.  08:15             6ÿ138 class.scholar.php
+25.01.2017 £.  08:52    <DIR>          css
+01.02.2017 £.  07:21             3ÿ474 db.php
+20.01.2017 £.  08:08                26 index.php
+28.01.2017 £.  08:08    <DIR>          js
+31.01.2017 £.  15:45             1ÿ346 scholar.php
+04.02.2017 £.  09:11                 0 t.txt
+31.01.2017 £.  15:18                19 tests.php
+01.02.2017 £.  07:21               418 updates.sql
+01.02.2017 £.  08:16    <DIR>          views
+               9 File(s)         25ÿ078 bytes
+
+ Directory of D:\xampp\htdocs\scholar\wp-content\plugins\scholar\css
+
+25.01.2017 £.  08:52    <DIR>          .
+25.01.2017 £.  08:52    <DIR>          ..
+27.01.2017 £.  08:21                71 scholar.css
+               1 File(s)             71 bytes
+
+ Directory of D:\xampp\htdocs\scholar\wp-content\plugins\scholar\js
+
+28.01.2017 £.  08:08    <DIR>          .
+28.01.2017 £.  08:08    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\xampp\htdocs\scholar\wp-content\plugins\scholar\views
+
+01.02.2017 £.  08:16    <DIR>          .
+01.02.2017 £.  08:16    <DIR>          ..
+24.01.2017 £.  08:34                76 scholar_main.php
+24.01.2017 £.  08:22                92 scholar_main_template.php
+01.02.2017 £.  07:57             1ÿ071 scholar_questions.php
+01.02.2017 £.  07:34             2ÿ565 scholar_questions_add.php
+01.02.2017 £.  08:32             1ÿ678 scholar_tests.php
+01.02.2017 £.  08:03             1ÿ122 scholar_tests_add.php
+30.01.2017 £.  08:48               811 scholar_tests_correct.php
+01.02.2017 £.  08:36               893 scholar_tests_solved.php
+30.01.2017 £.  08:45               747 scholar_tests_view.php
+               9 File(s)          9ÿ055 bytes
+
+     Total Files Listed:
+              19 File(s)         34ÿ204 bytes
+              11 Dir(s)  20ÿ046ÿ565ÿ376 bytes free
