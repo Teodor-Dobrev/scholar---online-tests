@@ -19,7 +19,7 @@ foreach(static::$view_content['tests'] as $val):
 ?>
 	<tr>
 		<td><?php echo $val->id;?></td><td><?php echo $val->uid;?></td><td><?php echo $val->name;?></td><td><?php echo $val->area;?></td><td><?php echo $val->last_edit;?></td><td><?php echo $val->time_to_solve;?></td>
-		<td><?php echo site_url();?>/tests/<?php echo $val->uid;?>/</td>
+		<td><a href="<?php echo site_url();?>/tests/<?php echo $val->uid;?>/"><?php echo site_url();?>/tests/<?php echo $val->uid;?>/</a></td>
 		<td>
 		<!--<a href="<?php echo admin_url() . 'admin.php?page=scholar_tests_add&amp;id=' . $val->id;?>">Редакция</a> | <br/>-->
 		 
